@@ -12,11 +12,11 @@ import { Fonts } from '@/constants/theme';
 export default function TabTwoScreen() {
   return (
     <ParallaxScrollView
-      headerBackgroundColor={{ light: '#D0D0D0', dark: '#353636' }}
+      headerBackgroundColor={{ light: '#D0D0D0', dark: '#2e0648' }}
       headerImage={
         <IconSymbol
           size={310}
-          color="#808080"
+          color="#fdcbec"
           name="chevron.left.forwardslash.chevron.right"
           style={styles.headerImage}
         />
@@ -27,10 +27,10 @@ export default function TabTwoScreen() {
           style={{
             fontFamily: Fonts.rounded,
           }}>
-          Explore
+          Função SOS 🚨
         </ThemedText>
       </ThemedView>
-      <ThemedText>This app includes example code to help you get started.</ThemedText>
+      <ThemedText>Dispositivo Físico</ThemedText>
       <Collapsible title="File-based routing">
         <ThemedText>
           This app has two screens:{' '}
@@ -100,7 +100,7 @@ export default function TabTwoScreen() {
 
 const styles = StyleSheet.create({
   headerImage: {
-    color: '#808080',
+    color: '#fac3dc',
     bottom: -90,
     left: -35,
     position: 'absolute',
