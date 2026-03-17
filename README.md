@@ -1,58 +1,8 @@
-# 👋 Bem-vindo ao seu app Expo
-
-Este é um projeto do Expo criado com o `create-expo-app`.
-
-## 🚀 Começando
-
-1. Instale as dependências
-
-```bash
-npm install
-```
-
-2. Inicie o app
-
-```bash
-npx expo start
-```
-
-No terminal, você verá opções para abrir o app em:
-
-* build de desenvolvimento
-* emulador Android
-* simulador iOS
-* Expo Go (um ambiente mais limitado para testar o app)
-
-Você pode começar a desenvolver editando os arquivos dentro da pasta **app**.
-Esse projeto usa **rotas baseadas em arquivos** (file-based routing).
-
----
-
-## 🔄 Criar um projeto “limpo”
-
-Quando quiser recomeçar:
-
-```bash
-npm run reset-project
-```
-
-Esse comando vai:
-
-* mover o código inicial para a pasta **app-example**
-* criar uma pasta **app** vazia para você começar do zero
-
----
-
-## 📚 Aprender mais
-
-* Documentação do Expo → para aprender o básico e avançado
-* Tutorial do Expo → passo a passo criando um app para Android, iOS e web
-
----
-
-## 🤝 Comunidade
-
-* GitHub do Expo → ver o código e contribuir
-* Discord → tirar dúvidas e conversar com outros devs
-
----
+<h1>Trabalho de Conclusão de Curso</h1>
+<h3>Aplicação Web para Segurança Feminina - Selene</h3>
+<h2>Participantes:</h2>
+Gabrielly Leite de Macedo - SP3115763 | Gaby Macedo (GabyyMacedo)
+Maria Eduarda de Araujo Souza - SP3115895 | Duda Araújo (mariaeduarda9999)
+Mayara Matilde Cardoso de Freitas - SP3115178 | MayMay (MayMatilde)
+Rafael Gomes Messias - SP3124819 | Rafa (Rafael0978)
+Yasmin Catherinne Conceição Bastos - SP3116212 | Yasmin (yasminbastos)
